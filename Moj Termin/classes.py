@@ -16,7 +16,7 @@ class Lekar:
     def get_plata(self):
         return self.plata
 
-    
+
 
 class MaticenLekar(Lekar):
     def __init__(self,maticen,ime,prezime,plata,br_pacietni,kotizacii):
